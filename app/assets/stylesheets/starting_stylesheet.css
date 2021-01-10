@@ -27,6 +27,7 @@ body {
 .social a {
     background: white;
     color: #FFD507;
+    padding: 0 5px;
 }
 
 .main-part {
