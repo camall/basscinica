@@ -12,6 +12,12 @@ body {
     max-width: 100%;
     max-height: 90vh;
     height: auto;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    object-fit: cover;
+    top: 0;
+    z-index: -2;
 }
 
 .social {
@@ -29,8 +35,4 @@ body {
     background: white;
     color: #FFD507;
     padding: 0 5px;
-}
-
-.main-part {
-    
 }
